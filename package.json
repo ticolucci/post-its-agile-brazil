@@ -1,0 +1,23 @@
+{
+  "name": "post-its-agile-brazil",
+  "version": "0.0.0",
+  "description": "Online Post-Its for reviewing AgileBrazil sessions with a remote pair",
+  "main": "web.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ticolucci/post-its-agile-brazil.git"
+  },
+  "keywords": [
+    "post-its",
+    "online",
+    "cooperation",
+    "agile",
+    "brazil"
+  ],
+  "author": "Thiago R. Colucci",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
